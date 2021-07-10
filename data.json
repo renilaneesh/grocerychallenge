@@ -1,0 +1,82 @@
+[
+    {
+        "SNo": 1,
+        "Name": "Apple",
+        "Quantity": 8,
+        "Unit": "kg",
+        "Department": "Fruit",
+        "Notes": "fresh"
+    },
+    {
+        "SNo": 2,
+        "Name": "mango",
+        "Quantity": 15,
+        "Unit": "kg",
+        "Department": "Fruit",
+        "Notes": "alphonso"
+    },
+    {
+        "SNo": 3,
+        "Name": "Egg",
+        "Quantity": 20,
+        "Unit": "kg",
+        "Department": "Non-veg",
+        "Notes": "none"
+    },
+    {
+        "SNo": 4,
+        "Name": "chicken",
+        "Quantity": 2.6,
+        "Unit": "kg",
+        "Department": " Non-veg",
+        "Notes": "curry piece"
+    },
+    {
+        "SNo": 5,
+        "Name": "Mushrooms",
+        "Quantity": 4,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "none"
+    },
+    {
+        "SNo": 6,
+        "Name": "Asparagus",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "none"
+    },
+    {
+        "SNo": 7,
+        "Name": "Rice",
+        "Quantity": 25,
+        "Unit": "kg",
+        "Department": "Rice",
+        "Notes": "Biriyani"
+    },
+    {
+        "SNo": 8,
+        "Name": "Milk",
+        "Quantity": 4,
+        "Unit": "packet",
+        "Department": "Dairy Product",
+        "Notes": "none"
+    },
+    {
+        "SNo": 9,
+        "Name": "Onions",
+        "Quantity": 7,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "none"
+    },
+    {
+        "SNo": 10,
+        "Name": "Graphes",
+        "Quantity": 1,
+        "Unit": "kg",
+        "Department": "Fruit",
+        "Notes": "none"
+    }
+]
